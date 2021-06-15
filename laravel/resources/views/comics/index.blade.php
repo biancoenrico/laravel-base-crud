@@ -11,7 +11,7 @@
                                 <h5 class="card-title">{{ $item['title'] }}</h5>
                                 <a 
                                     href="{{ route('comics.show' ,['comic' => $item['id']]) }}" 
-                                    class="btn btn-primary">Go somewhere
+                                    class="btn btn-primary">Go to info
                                 </a>
 
                             </div>
