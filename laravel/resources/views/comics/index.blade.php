@@ -13,7 +13,6 @@
                                     href="{{ route('comics.show' ,['comic' => $item['id']]) }}" 
                                     class="btn btn-primary">Go to info
                                 </a>
-
                             </div>
                         </div>
                     </div>
